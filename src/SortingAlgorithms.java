@@ -5,7 +5,6 @@ public class SortingAlgorithms {
         array[j] = temp;
     }
 
-    // Método auxiliar para imprimir o array
     public static void printArray(int[] array) {
         for (int num : array) {
             System.out.print(num + " ");
